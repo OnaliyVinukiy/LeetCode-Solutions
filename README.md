@@ -1,2 +1,3 @@
 # LeetCode-Solutions
-Hey Tech Enthusiasts!👋🏻 This repository contains solutions for LeetCode Challenges
+<h2>Hey Tech Enthusiasts!👋🏻</h2>
+This repository contains solutions for LeetCode Challenges
